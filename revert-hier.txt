@@ -1,1 +1,3 @@
 Hier wollen wir das revert ausprobieren.
+
+Wir wollen den Commit mit dieser Zeile hier reverten. Dann sollte sie einfach verschwinden.
