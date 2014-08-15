@@ -1,3 +1,7 @@
 Hier wollen wir das revert ausprobieren.
 
 Wir wollen den Commit mit dieser Zeile hier reverten. Dann sollte sie einfach verschwinden.
+
+Und diese Zeile hier wollen wir vorher noch ändern und erst dann den entsprechenden commit reverten. Damit es quasi einen Konflikt gibt.
+
+Die Zeilen zum Schluss sind immer nur da, um git durcheinander zu bringen.
